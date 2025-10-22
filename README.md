@@ -149,8 +149,8 @@ All data and insights are based on the provided dataset and are meant for analyt
 
 For any queries or feedback, feel free to reach out:
 
-- **Name**: Prajwal Gopal Poojary
-- **Email**: prajwalgpa@gmail.com
+- **Name**: Bhavi Thakare
+- **Email**: bhavithakare002@gmail.com
 - **Portfolio**: [Prajwal's Portfolio](https://bhavithakarepf.lovable.app/)
 
 ---
