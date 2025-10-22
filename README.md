@@ -151,7 +151,7 @@ For any queries or feedback, feel free to reach out:
 
 - **Name**: Bhavi Thakare
 - **Email**: bhavithakare002@gmail.com
-- **Portfolio**: [Prajwal's Portfolio](https://bhavithakarepf.lovable.app/)
+- **Portfolio**: [Bhavi's Portfolio](https://bhavithakarepf.lovable.app/)
 
 ---
 
