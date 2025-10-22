@@ -142,7 +142,7 @@ All data and insights are based on the provided dataset and are meant for analyt
 
 - **File Name**: `ROAD ACCIDENT DA PROJECT.pbix`[Download File Here](https://github.com/BhaviT20/Road-Accident-Da-Project-PowerBI/tree/main/Road%20Accident%20DA%20Project)
 - **Size**: `12 MB`
-- **File Name**: `Road Accident Data files`[Download File Here](https://github.com/PrajwalGpy/ROAD-ACCIDENT-DA-PROJECT-Power-BI/blob/main/Road%20Accident%20Data.xlsx)
+- **File Name**: `Road Accident Data files`[Download File Here](https://github.com/BhaviT20/Road-Accident-Da-Project-PowerBI/tree/main/Road%20Accident%20Data)
 - **Size**: `36 MB`
 
 ## 📧 Contact
